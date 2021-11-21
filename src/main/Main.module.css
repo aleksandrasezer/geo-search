@@ -1,0 +1,26 @@
+.inputCont {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.inputCont input {
+    height: 20px;
+    width: 200px;
+    box-shadow: 0 0 7px rgba(0,0,0,0.5);
+}
+
+
+.errorInput {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.errorInput input {
+    height: 20px;
+    width: 200px;
+    box-shadow: 0 0 7px rgba(255,0,0,0.5);
+}
+.serverError {
+    margin: 30px auto;
+    font-size: x-large;
+    color: darkred;
+}

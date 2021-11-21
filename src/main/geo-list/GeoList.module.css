@@ -1,0 +1,13 @@
+.geoListCont {
+    margin: 0 auto;
+    min-width: 500px;
+    max-width: 80%;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    text-align: left;
+    line-height: 2em;
+    padding-left: 10px;
+}
+.geoListCont:nth-child(odd) {
+    background-color: lightblue;
+}
